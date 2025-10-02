@@ -1,5 +1,5 @@
 # This workflow is for doing a code coverage check, reporting to Codecov (linked to my github acc)
-name: Python package
+name: Code Coverage 
 
 on:
   push:
